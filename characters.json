@@ -1,0 +1,400 @@
+{
+    "characters": [
+        {
+            "key": "Eula",
+            "level": 80,
+            "constellation": 0,
+            "ascension": 5,
+            "talent": {
+                "auto": 5,
+                "skill": 5,
+                "burst": 5
+            }
+        },
+        {
+            "key": "RaidenShogun",
+            "level": 70,
+            "constellation": 0,
+            "ascension": 4,
+            "talent": {
+                "auto": 1,
+                "skill": 4,
+                "burst": 4
+            }
+        },
+        {
+            "key": "Noelle",
+            "level": 60,
+            "constellation": 2,
+            "ascension": 3,
+            "talent": {
+                "auto": 2,
+                "skill": 2,
+                "burst": 2
+            }
+        },
+        {
+            "key": "Bennett",
+            "level": 70,
+            "constellation": 2,
+            "ascension": 4,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 3
+            }
+        },
+        {
+            "key": "Mona",
+            "level": 70,
+            "constellation": 1,
+            "ascension": 4,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Keqing",
+            "level": 60,
+            "constellation": 0,
+            "ascension": 4,
+            "talent": {
+                "auto": 1,
+                "skill": 2,
+                "burst": 2
+            }
+        },
+        {
+            "key": "Diona",
+            "level": 52,
+            "constellation": 0,
+            "ascension": 3,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Diluc",
+            "level": 50,
+            "constellation": 0,
+            "ascension": 3,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Sucrose",
+            "level": 50,
+            "constellation": 0,
+            "ascension": 2,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Rosaria",
+            "level": 50,
+            "constellation": 6,
+            "ascension": 2,
+            "talent": {
+                "auto": 2,
+                "skill": 2,
+                "burst": 2
+            }
+        },
+        {
+            "key": "Xingqiu",
+            "level": 50,
+            "constellation": 2,
+            "ascension": 2,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Thoma",
+            "level": 50,
+            "constellation": 1,
+            "ascension": 3,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "TravelerDendro",
+            "level": 43,
+            "constellation": 3,
+            "ascension": 2,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "YunJin",
+            "level": 40,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "ShikanoinHeizou",
+            "level": 40,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Amber",
+            "level": 40,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Amber",
+            "level": 40,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Aloy",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Aloy",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Gorou",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Faruzan",
+            "level": 20,
+            "constellation": 1,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Layla",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Kaeya",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Dori",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "KukiShinobu",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "KujouSara",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Fischl",
+            "level": 20,
+            "constellation": 1,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Razor",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Lisa",
+            "level": 20,
+            "constellation": 1,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Yaoyao",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Kaveh",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 0,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Collei",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 0,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Candace",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Barbara",
+            "level": 20,
+            "constellation": 1,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Yanfei",
+            "level": 20,
+            "constellation": 1,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        },
+        {
+            "key": "Xiangling",
+            "level": 20,
+            "constellation": 0,
+            "ascension": 1,
+            "talent": {
+                "auto": 1,
+                "skill": 1,
+                "burst": 1
+            }
+        }
+    ]
+}
