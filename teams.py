@@ -15,7 +15,7 @@ def calculate_team_score(team):
     for character in team:
         score += character['talent']['auto'] + character['talent']['skill'] + character['talent']['burst']
     return score
-
+# TODO ugrade the algorithm
 
 for i in range(len(characters)):
     for j in range(i+1, len(characters)):
